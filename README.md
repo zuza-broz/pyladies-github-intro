@@ -5,3 +5,5 @@ Ahoj
 
 ##zmena 
 neco jsem zmenil
+
+Tuhle zmenu jsem udelala ve vetvi MAster
